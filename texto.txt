@@ -1,0 +1,30 @@
+*el objetivo?
+ duran jugando el mayor tiempo posible.
+
+*la historia?
+ un pajaro que intenta volar esquibando los obtaculos.
+
+*el motivo?
+ el volar de un tsunami.
+
+*la puntuacion?
+ la distancia reccorrida.
+
+*retroalimentacion visual?
+ mientras mas puntuacion tenga el jugador la carita del pajaro va a cambiar y la del score.
+
+*win?
+ el pajarito que dure mas sin morir.
+
+ *cambio de bg?
+ mientras la puntuacion sea mas alta el fondo cambiara.
+
+ *movimiento?
+ el saltito sera con la tecla space y touches.
+
+ pantalla de inicio
+
+
+ 
+ juego
+ pantalla final
